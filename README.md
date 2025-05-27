@@ -14,7 +14,7 @@ Um aplicativo desenvolvido em React Native para gerenciamento de gastos.
 
 1. Clone do repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/weinberG1/FinanceApp
 ```
 
 2. Instalação das dependências:
